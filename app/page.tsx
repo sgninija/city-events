@@ -19,6 +19,9 @@ export default function Home() {
               <Link href={"/about"} className="hover:underline">
                 About
               </Link>
+              <Link href={"/events"} className="hover:underline">
+                Events
+              </Link>
               <div className="flex items-center gap-2">
                 <DeployButton />
               </div>
