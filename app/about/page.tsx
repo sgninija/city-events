@@ -20,7 +20,7 @@ export default function AboutPage() {
             <h1 className="text-4xl font-bold">About City Events</h1>
             <p className="text-lg leading-relaxed">
               City Events is a platform designed to help you discover and explore
-              exciting events happening in your city. Whether you're looking for
+              exciting events happening in your city. Whether you&apos;re looking for
               concerts, festivals, workshops, or community gatherings, we make it
               easy to find events that match your interests and connect with your
               local community.
